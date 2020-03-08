@@ -4,7 +4,7 @@
 *
 * Author Name: Ashish Yadav (Full stack developer)
 * Author URI: https://www.ashiish.me
-* GitHub: https:github.com/ashiishme
+* GitHub: https://github.com/ashiishme
 */
 
 // JavaScript strict mode
